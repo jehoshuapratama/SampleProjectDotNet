@@ -1,1 +1,1 @@
-# SampleProjectDotNet
+# SimpleProjectDotNet
